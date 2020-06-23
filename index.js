@@ -20,6 +20,7 @@ console.log('hello world!');
  */
 
 // TODO: ADD CODE HERE
+
 const greeting = "Hi! Welcome to 8 challenges.";
 console.log(greeting);
 
@@ -35,6 +36,7 @@ console.log(greeting);
  */
 
 // TODO: ADD CODE HERE
+
 const firstName = "Maria";
 const lastName = "Biliak";
 console.log(`${firstName} ${lastName}`);
@@ -52,6 +54,7 @@ console.log(`${firstName} ${lastName}`);
  */
 
 // TODO: ADD CODE HERE
+
 const price = 13.25;
 const quantity = 3;
 const total = price * quantity;
@@ -73,6 +76,7 @@ console.log(`$${totalRounded}`);
  */
 
 // TODO: ADD CODE HERE
+
 const weather = "Rainy";
 let message
 if ( weather === "Sunny") {
@@ -94,6 +98,7 @@ console.log(message);
  */
 
 // TODO: ADD CODE HERE
+
 function myFunction () {
 return "I called a function!";
 }
@@ -112,6 +117,7 @@ console.log( myFunction () );
  */
 
 // TODO: ADD CODE HERE
+
 const myArrowFunction = (arrow) => {
 return "I called an arrow function!";
 };
